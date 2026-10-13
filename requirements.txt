@@ -1,0 +1,30 @@
+# 本机实测环境（2026-10-05 采集，Python 3.13.7 / Windows 11）
+# 关键约束：RTX 5070 Laptop = Blackwell sm_120，必须 torch>=2.7 且 CUDA>=12.8 的构建，
+# 否则 GPU 内核不可用（本机已验证 torch 2.9.1+cu130 的 arch_list 含 sm_120）。
+torch==2.9.1+cu130
+torchvision==0.24.1+cu130
+
+# 深度学习文本侧
+transformers==5.18.0
+tokenizers==0.23.2
+datasets==5.0.1
+
+# 传统机器学习侧（主表：岭回归 / SVR / 随机森林 / LightGBM / 有序回归 / 朴素基线）
+scikit-learn==1.9.0
+lightgbm==4.7.0
+xgboost==3.4.1          # 备用，非主表
+mord                    # 累积链接模型（有序回归基线），若装不上见 src/task2difficulty/models.py 的内置回退实现
+
+# 数据与工具
+numpy==2.5.2
+pandas==2.3.3
+scipy==1.18.1
+requests==2.34.2
+beautifulsoup4==4.15.0
+lxml==6.1.2
+tqdm==4.70.0
+optuna==4.9.0           # 备用；主表超参搜索用自写的随机搜索以保证种子可复现
+
+# 图表（该刊要求黑色线条、图题在下、中文标注）
+matplotlib==3.11.1
+seaborn==0.13.2

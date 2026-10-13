@@ -1,0 +1,15 @@
+{
+  "model": "fusion",
+  "tuned_on_condition": "A",
+  "params": {
+    "lr": 3e-05,
+    "epochs": 4
+  },
+  "extra": {
+    "best_valid_mae": 260.99716177866725,
+    "n_candidates": 9,
+    "tune_seconds": 2063.0,
+    "budget_family": "bert",
+    "budget": 9
+  }
+}

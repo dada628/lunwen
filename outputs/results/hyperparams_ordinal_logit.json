@@ -1,0 +1,14 @@
+{
+  "model": "ordinal_logit",
+  "tuned_on_condition": "A",
+  "params": {
+    "l2": 1.0
+  },
+  "extra": {
+    "best_valid_mae": 229.79339877923636,
+    "n_candidates": 5,
+    "tune_seconds": 28.8,
+    "budget_family": "linear_tree",
+    "budget": 40
+  }
+}

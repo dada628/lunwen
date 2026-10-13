@@ -1,0 +1,29 @@
+{role_line}You are estimating how difficult competitive programming problems are.
+
+Below are {n_items} problems from the Codeforces problemset. For each problem, estimate the difficulty rating that Codeforces would assign to it.
+
+The rating scale (integer, in steps of 100):
+
+  800-1200   very easy - basic implementation, no algorithm knowledge required
+  1300-1600  easy - simple greedy / sorting / math, straightforward once read
+  1700-2000  medium - one standard algorithm or data structure, or a non-obvious observation
+  2100-2400  hard - advanced algorithms, or several insights combined
+  2500-3500  very hard - solved in contest only by strong contestants
+
+Rules:
+1. Judge each problem independently, from its own statement alone. Do not compare the
+   problems with one another, and do not let an answer for one problem influence
+   another.
+2. Do not search for the problems, and do not try to recall their identities or their
+   official ratings. If a problem looks familiar, ignore that and judge it on content.
+3. Every rating must be an integer between 800 and 3500, in multiples of 100.
+   The minimum possible rating is 800.
+4. Output exactly one JSON object per problem, one object per line, in the same order
+   as the problems appear below, and nothing else - no headings, no counts, no
+   commentary:
+   {"item_id": "<the id>", "rating": <integer>}
+5. Produce a line for every problem. Do not skip any problem, do not summarize,
+   do not refuse.
+
+=== PROBLEMS ===
+{problems_block}=== END OF PROBLEMS ===

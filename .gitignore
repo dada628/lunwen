@@ -1,0 +1,51 @@
+# ── 本机稿件与期刊材料（不入库）
+#    · 用**通配**而非具体刊名：避免在公开仓库里留下"曾投/正投某家刊"的痕迹
+#      （同一稿若改投他刊，历史里留着旧刊名易生误会）
+#    · 中英文名都覆盖：期刊材料目录常叫"××学报""××期刊"，也可能用英文名
+#    · ⚠ 不要笼统写 `*.pdf`：outputs/figures/ 下的图是矢量 PDF，属可复现材料
+*.docx
+~$*.docx
+*学报/
+*期刊*/
+*journal*/
+*journal
+
+# ── 密钥与凭据：**切勿提交**
+接口与key.txt
+*key*.txt
+*.key
+.env
+.env.*
+secrets.json
+credentials.json
+
+# ── 原始数据：体积过大（约 1.5 GB，单文件 735 MB 超 GitHub 100 MB 限制）
+#    需要时用 `python download_data.py` 从 Codeforces 公开 API 重建
+data/raw/
+
+# ── Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ── 运行产物：日志与临时文件
+*.log
+outputs/reports/
+outputs/_*.png
+outputs/_*.txt
+outputs/_*.docx
+outputs/_*.pdf
+_temp*
+~$*
+
+# ── 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,23 @@
+{
+  "snapshot_date": "2026-10-06",
+  "n_items": 500,
+  "seed": 20260106,
+  "strata": [
+    "低(−∞~1200)",
+    "中(1200~2400)",
+    "高(2400~∞)"
+  ],
+  "by_stratum": {
+    "低(−∞~1200)": 167,
+    "中(1200~2400)": 167,
+    "高(2400~∞)": 166
+  },
+  "n_new": 200,
+  "n_old": 300,
+  "rating_range": [
+    800.0,
+    3500.0
+  ],
+  "readable_statement_fallback": 0,
+  "disclaimer": "items_key.csv 含真实 rating 与年份，不得随题面一起交给模型"
+}

@@ -1,0 +1,17 @@
+{
+  "model": "mlp",
+  "tuned_on_condition": "A",
+  "params": {
+    "lr": 0.001,
+    "batch_size": 32,
+    "dropout": 0.1,
+    "epochs": 30
+  },
+  "extra": {
+    "best_valid_mae": 182.49540198107442,
+    "n_candidates": 12,
+    "tune_seconds": 60.5,
+    "budget_family": "small_nn",
+    "budget": 12
+  }
+}

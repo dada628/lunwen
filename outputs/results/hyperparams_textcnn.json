@@ -1,0 +1,18 @@
+{
+  "model": "textcnn",
+  "tuned_on_condition": "A",
+  "params": {
+    "lr": 0.001,
+    "batch_size": 16,
+    "dropout": 0.3,
+    "embed_dim": 100,
+    "epochs": 8
+  },
+  "extra": {
+    "best_valid_mae": 454.47885474817446,
+    "n_candidates": 12,
+    "tune_seconds": 216.8,
+    "budget_family": "small_nn",
+    "budget": 12
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "fleiss": {
+    "fleiss_kappa": 0.4148593815586958,
+    "ci_low": 0.3750078507252066,
+    "ci_high": 0.45266254886986407,
+    "n_boot": 2000
+  },
+  "exact_agreement": 0.356,
+  "within1": 0.854,
+  "n_complete": 500,
+  "models": [
+    "DeepSeek-V4.1-Flash",
+    "mimo-v2.6-flash",
+    "qwen3.8-flash"
+  ]
+}

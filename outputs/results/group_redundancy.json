@@ -1,0 +1,23 @@
+{
+  "题号字母序 problem_index × 算法标签数 tag_count": 0.26336375968936493,
+  "题号字母序 problem_index × 约束规模 constraint_n_upper": 0.14652645545287546,
+  "题号字母序 problem_index × 统计 solved_count": -0.6535681992556382,
+  "题号字母序 problem_index × 统计 days_since_publish": -0.15574379058732826,
+  "题号字母序 problem_index × 题面长度 statement_len": 0.23974606653076683,
+  "题号字母序 problem_index × 比赛年份 year": 0.1533207528797738,
+  "题号字母序 problem_index × ratin(标签)": 0.7590355118037702,
+  "比赛编号 contest_id × 算法标签数 tag_count": 0.31086352244260745,
+  "比赛编号 contest_id × 约束规模 constraint_n_upper": 0.16430224691393747,
+  "比赛编号 contest_id × 统计 solved_count": 0.17104465478316405,
+  "比赛编号 contest_id × 统计 days_since_publish": -0.9999694768413687,
+  "比赛编号 contest_id × 题面长度 statement_len": 0.06246746965839815,
+  "比赛编号 contest_id × 比赛年份 year": 0.9977951179061635,
+  "比赛编号 contest_id × ratin(标签)": -0.033226584109966095,
+  "比赛等级 div_type × 算法标签数 tag_count": 0.1280449975633942,
+  "比赛等级 div_type × 约束规模 constraint_n_upper": 0.07947357717911528,
+  "比赛等级 div_type × 统计 solved_count": 0.49270484449499746,
+  "比赛等级 div_type × 统计 days_since_publish": -0.2766202339042415,
+  "比赛等级 div_type × 题面长度 statement_len": -0.07576638746180463,
+  "比赛等级 div_type × 比赛年份 year": 0.28090359548476157,
+  "比赛等级 div_type × ratin(标签)": -0.350162127857311
+}

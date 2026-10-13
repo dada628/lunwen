@@ -1,0 +1,501 @@
+﻿item_id,problem_key,rating,year,is_new,tags
+K0001,1635-E,2200.0,2022,0,greedy|sortings|constructive algorithms|dsu|graphs|dfs and similar|2-sat
+K0002,2035-A,800.0,2024,1,math|implementation
+K0003,513-G2,2400.0,2015,0,dp|probabilities
+K0004,1933-G,2300.0,2024,1,math|brute force|constructive algorithms|bitmasks|combinatorics|dfs and similar
+K0005,713-D,2700.0,2016,0,data structures|binary search
+K0006,1040-A,1000.0,2018,0,greedy
+K0007,2122-F,3400.0,2025,1,geometry|constructive algorithms|divide and conquer
+K0008,478-E,2900.0,2014,0,sortings|brute force|dfs and similar|meet-in-the-middle
+K0009,2101-D,2500.0,2025,1,implementation|sortings|data structures|two pointers
+K0010,933-E,3200.0,2018,0,dp|constructive algorithms
+K0011,893-F,2300.0,2017,0,data structures|trees
+K0012,1488-B,1800.0,2021,0,greedy|*special
+K0013,29-C,1700.0,2010,0,implementation|data structures|graphs|dfs and similar
+K0014,1416-D,2600.0,2020,0,implementation|data structures|dsu|trees|graphs
+K0015,1365-G,2800.0,2020,0,math|constructive algorithms|bitmasks|combinatorics|interactive
+K0016,1847-A,800.0,2023,1,greedy|sortings
+K0017,2179-C,1100.0,2025,1,math|implementation|sortings|number theory
+K0018,374-A,2000.0,2013,0,implementation|greedy
+K0019,1190-D,2000.0,2019,0,sortings|data structures|two pointers|divide and conquer
+K0020,2185-H,2500.0,2026,1,dp|greedy|brute force|data structures|binary search
+K0021,2106-G2,2500.0,2025,1,implementation|binary search|trees|divide and conquer|dfs and similar|interactive
+K0022,2252-A,800.0,2026,1,greedy|data structures
+K0023,2231-A,800.0,2026,1,constructive algorithms
+K0024,735-B,1100.0,2016,0,greedy|sortings|number theory
+K0025,25-E,2200.0,2010,0,hashing|strings
+K0026,115-A,900.0,2011,0,trees|graphs|dfs and similar
+K0027,58-A,1000.0,2011,0,greedy|strings
+K0028,924-D,2500.0,2018,0,
+K0029,2119-A,800.0,2025,1,math|greedy|bitmasks
+K0030,471-B,1300.0,2014,0,implementation|sortings
+K0031,1559-D2,2500.0,2021,0,greedy|brute force|constructive algorithms|two pointers|dsu|trees|graphs|dfs and similar
+K0032,1823-C,1300.0,2023,1,math|greedy|number theory
+K0033,2075-F,3000.0,2025,1,implementation|brute force|data structures|binary search
+K0034,1991-B,1100.0,2024,1,greedy|constructive algorithms|bitmasks
+K0035,1665-B,900.0,2022,0,greedy|sortings|constructive algorithms
+K0036,1846-A,800.0,2023,1,math|implementation
+K0037,1569-D,1900.0,2021,0,implementation|sortings|data structures|two pointers|binary search
+K0038,1889-E,3500.0,2023,1,trees|graphs|dfs and similar
+K0039,1328-A,800.0,2020,0,math
+K0040,523-A,1200.0,2015,0,implementation|*special
+K0041,689-A,1400.0,2016,0,implementation|brute force|constructive algorithms
+K0042,1696-E,2000.0,2022,0,math|combinatorics
+K0043,1867-A,800.0,2023,1,sortings|constructive algorithms
+K0044,1340-F,3300.0,2020,0,hashing|brute force|data structures
+K0045,1975-G,3000.0,2024,1,math|greedy|strings|fft
+K0046,2267-E,2000.0,2026,1,math|data structures|combinatorics
+K0047,811-A,800.0,2017,0,implementation|brute force
+K0048,1578-M,2700.0,2021,0,constructive algorithms|probabilities|interactive
+K0049,1661-E,2500.0,2022,0,math|dp|brute force|data structures|dsu|trees
+K0050,1475-C,1400.0,2021,0,math|graphs|combinatorics
+K0051,1584-D,2000.0,2021,0,math|binary search|combinatorics|interactive
+K0052,2126-A,800.0,2025,1,math|implementation|brute force
+K0053,843-D,3400.0,2017,0,shortest paths|graphs
+K0054,102-B,1000.0,2011,0,implementation
+K0055,1692-D,1100.0,2022,0,implementation|brute force
+K0056,2124-G,3200.0,2025,1,data structures|binary search
+K0057,1558-A,1300.0,2021,0,math|brute force
+K0058,2174-C1,2400.0,2025,1,math|probabilities|combinatorics
+K0059,2077-D,3100.0,2025,1,math|implementation|greedy|brute force|data structures
+K0060,803-E,2000.0,2017,0,dp|graphs
+K0061,1955-E,1700.0,2024,1,implementation|greedy|sortings|brute force
+K0062,1702-C,1100.0,2022,0,greedy|data structures
+K0063,950-A,800.0,2018,0,math|implementation
+K0064,2049-E,2400.0,2024,1,implementation|brute force|constructive algorithms|binary search|bitmasks|interactive
+K0065,1345-B,1100.0,2020,0,math|dp|brute force|binary search
+K0066,1805-C,1400.0,2023,1,math|geometry|data structures|binary search
+K0067,2233-B,900.0,2026,1,constructive algorithms
+K0068,1856-A,800.0,2023,1,implementation
+K0069,345-F,2700.0,2013,0,*special
+K0070,1028-C,1600.0,2018,0,implementation|geometry|sortings
+K0071,533-B,2000.0,2015,0,dp|strings|trees|graphs|dfs and similar
+K0072,1710-C,2500.0,2022,0,math|dp|greedy|brute force|constructive algorithms|bitmasks
+K0073,2094-D,1100.0,2025,1,greedy|strings|two pointers
+K0074,1343-C,1200.0,2020,0,dp|greedy|two pointers
+K0075,17-A,1000.0,2010,0,math|brute force|number theory
+K0076,1726-G,3300.0,2022,0,greedy|sortings|data structures|combinatorics
+K0077,2045-G,2200.0,2024,1,math|shortest paths|graphs
+K0078,2109-C3,2600.0,2025,1,math|constructive algorithms|number theory|interactive
+K0079,2171-G,2000.0,2025,1,math|greedy|bitmasks|combinatorics
+K0080,1385-A,800.0,2020,0,math
+K0081,1787-H,3300.0,2023,1,geometry|dp|data structures|binary search
+K0082,1556-E,2200.0,2021,0,dp|greedy|data structures
+K0083,926-F,2000.0,2018,0,
+K0084,1948-F,2500.0,2024,1,math|probabilities|combinatorics
+K0085,2155-B,1100.0,2025,1,constructive algorithms|graphs
+K0086,316-E1,1500.0,2013,0,brute force|data structures
+K0087,1372-A,800.0,2020,0,implementation|constructive algorithms
+K0088,1140-B,1200.0,2019,0,implementation|strings
+K0089,2135-D2,2500.0,2025,1,math|brute force|constructive algorithms|interactive
+K0090,2161-A,800.0,2025,1,math|implementation|greedy|games
+K0091,1110-F,2600.0,2019,0,data structures|trees
+K0092,22-A,800.0,2010,0,brute force
+K0093,2121-A,800.0,2025,1,math|brute force
+K0094,1957-E,2400.0,2024,1,math|dp|brute force|number theory|combinatorics
+K0095,822-B,1000.0,2017,0,implementation|brute force|strings
+K0096,1339-B,1200.0,2020,0,sortings|constructive algorithms
+K0097,316-A1,1100.0,2013,0,greedy
+K0098,1969-C,1700.0,2024,1,implementation|dp
+K0099,2118-A,800.0,2025,1,greedy|constructive algorithms
+K0100,2229-I,3500.0,2026,1,dp|trees
+K0101,922-F,2400.0,2018,0,dp|greedy|constructive algorithms|number theory
+K0102,1508-E,3100.0,2021,0,sortings|brute force|constructive algorithms|data structures|trees|dfs and similar
+K0103,1654-A,800.0,2022,0,implementation|greedy|sortings|brute force
+K0104,1445-B,900.0,2020,0,math|greedy
+K0105,2183-B,1100.0,2026,1,greedy|constructive algorithms
+K0106,1239-E,3100.0,2019,0,implementation|dp
+K0107,1923-F,2800.0,2024,1,implementation|hashing|greedy|brute force|strings|binary search|string suffix structures
+K0108,1146-A,800.0,2019,0,implementation|strings
+K0109,797-E,2000.0,2017,0,dp|brute force|data structures
+K0110,1392-B,800.0,2020,0,math|implementation
+K0111,2199-I,3000.0,2026,1,*special
+K0112,902-B,1200.0,2017,0,greedy|dsu|dfs and similar
+K0113,1284-C,1600.0,2020,0,math|combinatorics
+K0114,1776-C,2500.0,2023,1,greedy|sortings|games|interactive
+K0115,2172-C,3100.0,2025,1,greedy|binary search
+K0116,290-C,1700.0,2013,0,implementation|trees|graph matchings|*special
+K0117,548-A,1100.0,2015,0,implementation|brute force|strings
+K0118,135-E,3000.0,2011,0,combinatorics
+K0119,1195-D2,1800.0,2019,0,math|number theory|combinatorics
+K0120,48-B,1200.0,2010,0,implementation|brute force
+K0121,1056-F,2500.0,2018,0,math|dp|binary search
+K0122,176-E,3100.0,2012,0,data structures|trees|dfs and similar
+K0123,2084-B,1100.0,2025,1,math|greedy|number theory
+K0124,501-B,1100.0,2015,0,data structures|strings|dsu
+K0125,1474-B,1000.0,2021,0,math|greedy|constructive algorithms|binary search|number theory
+K0126,2084-G2,3500.0,2025,1,dp|data structures
+K0127,2039-H2,3500.0,2024,1,implementation|sortings|constructive algorithms
+K0128,1310-C,2800.0,2020,0,dp|strings|binary search
+K0129,1949-G,2300.0,2024,1,greedy|graphs
+K0130,1337-B,900.0,2020,0,math|implementation|greedy
+K0131,1778-F,2600.0,2023,1,math|dp|trees|number theory|graphs|dfs and similar
+K0132,1994-C,1600.0,2024,1,dp|two pointers|binary search
+K0133,1658-F,2700.0,2022,0,math|greedy|brute force|constructive algorithms
+K0134,877-A,1100.0,2017,0,implementation|strings
+K0135,1064-A,800.0,2018,0,math|geometry|brute force
+K0136,799-F,3500.0,2017,0,data structures
+K0137,1831-B,1000.0,2023,1,greedy|constructive algorithms
+K0138,110-B,1100.0,2011,0,constructive algorithms|strings
+K0139,1205-E,3100.0,2019,0,strings|combinatorics
+K0140,884-B,1100.0,2017,0,implementation
+K0141,516-D,2800.0,2015,0,dp|two pointers|dsu|trees|dfs and similar
+K0142,2217-A,800.0,2026,1,math
+K0143,554-B,1200.0,2015,0,greedy|brute force|strings
+K0144,630-K,1500.0,2016,0,math|number theory
+K0145,580-A,900.0,2015,0,implementation|dp|brute force
+K0146,1216-B,900.0,2019,0,implementation|greedy|sortings
+K0147,235-D,3000.0,2012,0,graphs
+K0148,2040-D,1900.0,2024,1,greedy|brute force|constructive algorithms|two pointers|trees|number theory|dfs and similar
+K0149,1492-E,2500.0,2021,0,implementation|greedy|brute force|constructive algorithms|dfs and similar
+K0150,1676-C,800.0,2022,0,math|implementation|greedy|brute force|strings
+K0151,1404-D,2800.0,2020,0,math|constructive algorithms|number theory|dfs and similar|interactive
+K0152,2091-E,1300.0,2025,1,math|brute force|two pointers|number theory
+K0153,1526-F,3000.0,2021,0,constructive algorithms|probabilities|interactive
+K0154,176-B,1700.0,2012,0,dp
+K0155,1430-F,2600.0,2020,0,dp|greedy
+K0156,1108-B,1100.0,2019,0,math|greedy|brute force|number theory
+K0157,1878-C,900.0,2023,1,math
+K0158,1920-C,1600.0,2024,1,math|brute force|number theory
+K0159,2237-I2,3500.0,2026,1,dp|trees
+K0160,1852-D,2800.0,2023,1,dp|greedy|constructive algorithms
+K0161,1276-D,2900.0,2019,0,dp|trees
+K0162,2253-C,1500.0,2026,1,greedy|sortings|two pointers
+K0163,550-C,1500.0,2015,0,math|dp|brute force
+K0164,1943-E2,3300.0,2024,1,greedy|two pointers|binary search
+K0165,1808-E3,2800.0,2023,1,math|dp|brute force|combinatorics
+K0166,200-B,800.0,2012,0,math|implementation
+K0167,14-E,1900.0,2010,0,dp
+K0168,1001-A,1100.0,2018,0,*special
+K0169,1736-E,2600.0,2022,0,dp|greedy
+K0170,1622-F,2900.0,2021,0,math|hashing|constructive algorithms|number theory
+K0171,237-D,2000.0,2012,0,greedy|trees|graphs|dfs and similar
+K0172,1693-D,2800.0,2022,0,dp|greedy|brute force|data structures|divide and conquer
+K0173,1896-H1,3400.0,2023,1,math|dp|brute force|number theory|divide and conquer|fft
+K0174,2158-F2,3000.0,2025,1,math|constructive algorithms|number theory|graphs|combinatorics
+K0175,1628-C,2300.0,2022,0,math|implementation|greedy|constructive algorithms|interactive
+K0176,231-B,1500.0,2012,0,greedy|constructive algorithms
+K0177,1511-B,1100.0,2021,0,math|constructive algorithms|number theory
+K0178,1462-C,900.0,2020,0,math|greedy|brute force
+K0179,1647-F,3100.0,2022,0,dp|greedy
+K0180,1914-A,800.0,2023,1,implementation|strings
+K0181,1373-A,1000.0,2020,0,math|implementation|greedy
+K0182,868-C,1500.0,2017,0,dp|brute force|constructive algorithms|bitmasks
+K0183,1845-E,2500.0,2023,1,math|implementation|dp
+K0184,1857-F,1600.0,2023,1,math|data structures|binary search
+K0185,921-07,3200.0,2018,0,
+K0186,982-F,2700.0,2018,0,graphs|dfs and similar
+K0187,2206-D,2600.0,2026,1,dp|data structures|trees
+K0188,466-C,1700.0,2014,0,dp|brute force|data structures|two pointers|binary search
+K0189,883-H,1800.0,2017,0,implementation|brute force|strings
+K0190,1882-D,1900.0,2023,1,dp|greedy|trees|bitmasks|dfs and similar
+K0191,1699-E,2600.0,2022,0,math|dp|greedy|data structures|two pointers|number theory
+K0192,1019-C,3000.0,2018,0,constructive algorithms|graphs
+K0193,696-D,2500.0,2016,0,dp|data structures|strings|matrices
+K0194,2014-B,800.0,2024,1,math
+K0195,1837-C,1000.0,2023,1,greedy|constructive algorithms
+K0196,1632-B,1000.0,2022,0,constructive algorithms|bitmasks
+K0197,2242-D,1600.0,2026,1,dp|strings
+K0198,2060-G,2400.0,2025,1,dp|greedy|sortings
+K0199,1355-D,1400.0,2020,0,math|constructive algorithms
+K0200,48-H,2800.0,2010,0,constructive algorithms
+K0201,46-A,800.0,2010,0,implementation|brute force
+K0202,1823-E,2500.0,2023,1,math|dp|brute force|games|graphs
+K0203,1506-G,2000.0,2021,0,dp|greedy|brute force|data structures|strings
+K0204,1847-C,1400.0,2023,1,dp|greedy|brute force|bitmasks
+K0205,1848-D,2200.0,2023,1,math|brute force|binary search|ternary search
+K0206,2253-D,1800.0,2026,1,math|implementation|geometry|greedy|brute force|binary search
+K0207,958-E1,1600.0,2018,0,math|geometry|greedy|brute force
+K0208,1924-D,2700.0,2024,1,math|dp|combinatorics
+K0209,643-G,3200.0,2016,0,data structures
+K0210,245-G,2200.0,2012,0,brute force|graphs
+K0211,1637-F,2500.0,2022,0,dp|greedy|constructive algorithms|trees|dfs and similar
+K0212,298-B,1200.0,2013,0,implementation|greedy|brute force
+K0213,1205-B,1900.0,2019,0,shortest paths|brute force|graphs|bitmasks
+K0214,1887-D,2700.0,2023,1,math|data structures|two pointers|binary search|dsu|trees|divide and conquer
+K0215,42-A,1400.0,2010,0,implementation|greedy
+K0216,1002-A1,800.0,2018,0,*special
+K0217,958-C1,1200.0,2018,0,brute force
+K0218,2049-B,1300.0,2024,1,implementation|brute force|constructive algorithms|graph matchings
+K0219,32-A,800.0,2010,0,brute force
+K0220,448-A,800.0,2014,0,implementation
+K0221,2245-A,800.0,2026,1,greedy
+K0222,1815-F,3500.0,2023,1,math|constructive algorithms|graphs
+K0223,1521-A,1000.0,2021,0,math|constructive algorithms|number theory
+K0224,1506-A,800.0,2021,0,math
+K0225,2124-F2,2800.0,2025,1,dp|combinatorics
+K0226,472-A,800.0,2014,0,math|number theory
+K0227,1254-D,2700.0,2019,0,data structures|trees|probabilities
+K0228,1530-A,800.0,2021,0,math|greedy
+K0229,862-C,1900.0,2017,0,constructive algorithms
+K0230,379-G,3100.0,2013,0,dp
+K0231,1762-A,800.0,2022,0,math|greedy|number theory
+K0232,2148-B,800.0,2025,1,geometry
+K0233,382-B,2000.0,2014,0,math|binary search
+K0234,2019-A,800.0,2024,1,dp|greedy|brute force
+K0235,2237-A,800.0,2026,1,greedy|games|schedules
+K0236,1788-F,2500.0,2023,1,implementation|greedy|constructive algorithms|dsu|trees|graphs|bitmasks|dfs and similar
+K0237,1178-H,3500.0,2019,0,binary search|graphs|flows
+K0238,704-B,2500.0,2016,0,dp|greedy|graphs
+K0239,601-E,2800.0,2015,0,dp|data structures
+K0240,2164-F2,2900.0,2025,1,math|dp|data structures|binary search|trees|graphs|combinatorics|dfs and similar
+K0241,1089-I,2600.0,2018,0,combinatorics
+K0242,2061-H2,3500.0,2025,1,graphs|flows
+K0243,2229-A,800.0,2026,1,math|greedy|brute force
+K0244,1592-F2,2800.0,2021,0,greedy|constructive algorithms|graph matchings|flows
+K0245,1155-A,1000.0,2019,0,implementation|sortings|strings
+K0246,185-E,3000.0,2012,0,data structures|binary search
+K0247,2154-C1,1400.0,2025,1,math|implementation|greedy|number theory
+K0248,2028-F,2700.0,2024,1,implementation|dp|brute force|bitmasks
+K0249,2119-E,2600.0,2025,1,dp|greedy|bitmasks
+K0250,354-D,2900.0,2013,0,dp
+K0251,180-F,1200.0,2012,0,math|implementation|constructive algorithms
+K0252,571-C,2500.0,2015,0,greedy|constructive algorithms|graphs|dfs and similar
+K0253,1548-D1,2300.0,2021,0,math|geometry|number theory|bitmasks
+K0254,1909-E,2400.0,2023,1,math|brute force|constructive algorithms|number theory|bitmasks
+K0255,2202-B,1200.0,2026,1,implementation|dp|greedy
+K0256,1850-A,800.0,2023,1,implementation|sortings
+K0257,2089-C1,2200.0,2025,1,math|dp|games|probabilities
+K0258,1328-C,1200.0,2020,0,implementation|greedy
+K0259,269-D,2600.0,2013,0,dp|sortings|data structures|graphs
+K0260,1955-D,1400.0,2024,1,data structures|two pointers
+K0261,2043-B,1100.0,2024,1,math|number theory
+K0262,2207-H1,3500.0,2026,1,greedy|constructive algorithms|binary search|trees|divide and conquer|interactive
+K0263,1698-G,2900.0,2022,0,math|number theory|bitmasks|meet-in-the-middle|matrices
+K0264,1835-B,2500.0,2023,1,math|greedy|brute force|two pointers|binary search
+K0265,1998-B,1000.0,2024,1,math|constructive algorithms|number theory
+K0266,1697-E,2400.0,2022,0,math|implementation|geometry|dp|greedy|brute force|constructive algorithms|graphs|combinatorics
+K0267,1157-F,2000.0,2019,0,dp|greedy|constructive algorithms|two pointers
+K0268,2170-C,1300.0,2025,1,greedy|two pointers|binary search
+K0269,1789-B,800.0,2023,1,implementation|brute force|strings|two pointers
+K0270,1545-D,3000.0,2021,0,math|constructive algorithms|interactive
+K0271,1304-B,1100.0,2020,0,implementation|greedy|brute force|constructive algorithms|strings
+K0272,1999-A,800.0,2024,1,math|implementation
+K0273,238-D,2900.0,2012,0,implementation|data structures
+K0274,893-B,1000.0,2017,0,implementation|brute force
+K0275,1841-C,1800.0,2023,1,math|dp|greedy|brute force|strings
+K0276,1462-E2,1700.0,2020,0,math|implementation|sortings|two pointers|binary search|combinatorics
+K0277,1207-A,800.0,2019,0,math|implementation|greedy|brute force
+K0278,2060-A,800.0,2025,1,brute force
+K0279,630-J,1100.0,2016,0,math|number theory
+K0280,285-A,1100.0,2013,0,implementation|greedy
+K0281,730-D,2200.0,2016,0,math|implementation|greedy
+K0282,1954-B,1200.0,2024,1,math|implementation
+K0283,16-E,1900.0,2010,0,dp|bitmasks|probabilities
+K0284,1147-F,3500.0,2019,0,games|interactive
+K0285,1041-E,1900.0,2018,0,greedy|constructive algorithms|data structures|graphs
+K0286,340-E,2000.0,2013,0,math|combinatorics
+K0287,295-B,1700.0,2013,0,dp|shortest paths|graphs
+K0288,1061-E,2600.0,2018,0,graphs|flows
+K0289,1575-L,2100.0,2021,0,dp|sortings|data structures|divide and conquer
+K0290,482-B,1800.0,2014,0,constructive algorithms|data structures|trees
+K0291,611-A,900.0,2015,0,implementation
+K0292,2130-B,1100.0,2025,1,constructive algorithms
+K0293,2039-B,1000.0,2024,1,implementation|greedy|constructive algorithms|strings
+K0294,739-B,1900.0,2016,0,data structures|binary search|trees|graphs|dfs and similar
+K0295,2035-G2,3500.0,2024,1,dp|divide and conquer
+K0296,765-D,1700.0,2017,0,math|constructive algorithms|dsu
+K0297,1428-B,1200.0,2020,0,implementation|graphs
+K0298,215-D,1900.0,2012,0,greedy
+K0299,778-E,3000.0,2017,0,dp|sortings
+K0300,2081-E,3300.0,2025,1,implementation|dp|combinatorics
+K0301,27-E,2000.0,2010,0,dp|brute force|number theory
+K0302,1729-C,1100.0,2022,0,constructive algorithms|strings
+K0303,856-F,3000.0,2017,0,greedy
+K0304,2119-C,1300.0,2025,1,math|constructive algorithms|bitmasks
+K0305,1562-D2,2200.0,2021,0,math|data structures
+K0306,1437-F,2600.0,2020,0,math|dp|two pointers|combinatorics
+K0307,160-B,1100.0,2012,0,greedy|sortings
+K0308,1159-B,1300.0,2019,0,math|implementation
+K0309,2215-A,1700.0,2026,1,math|dp|greedy|constructive algorithms
+K0310,2167-D,1000.0,2025,1,math|implementation|brute force|number theory
+K0311,1714-A,900.0,2022,0,math|implementation
+K0312,2228-F,2700.0,2026,1,dp|binary search|trees|divide and conquer|dfs and similar
+K0313,1829-F,1300.0,2023,1,math|graphs|dfs and similar
+K0314,1834-A,800.0,2023,1,math|greedy
+K0315,1184-C3,3200.0,2019,0,
+K0316,2048-F,2500.0,2024,1,math|implementation|dp|brute force|data structures|trees|divide and conquer
+K0317,2081-A,1800.0,2025,1,math|dp|bitmasks|probabilities
+K0318,729-D,1700.0,2016,0,math|greedy|constructive algorithms
+K0319,596-B,1100.0,2015,0,implementation|greedy
+K0320,2181-L,2800.0,2025,1,math|string suffix structures
+K0321,2174-F,2800.0,2025,1,math|dp|trees|combinatorics|fft
+K0322,195-B,1300.0,2012,0,math|implementation|data structures
+K0323,1988-F,3000.0,2024,1,math|dp|combinatorics|fft
+K0324,159-E,1700.0,2012,0,greedy|sortings|data structures|*special
+K0325,1036-F,2400.0,2018,0,math|number theory|combinatorics
+K0326,16-D,1900.0,2010,0,implementation|strings
+K0327,161-A,1300.0,2012,0,greedy|brute force|two pointers|binary search
+K0328,1809-C,1500.0,2023,1,math|greedy|constructive algorithms
+K0329,407-A,1600.0,2014,0,math|implementation|geometry|brute force
+K0330,718-E,3300.0,2016,0,graphs|bitmasks
+K0331,802-G3,2300.0,2017,0,string suffix structures
+K0332,2218-F,1500.0,2026,1,implementation|constructive algorithms|trees
+K0333,1097-H,3400.0,2019,0,dp|brute force|strings|bitmasks
+K0334,1796-B,1000.0,2023,1,implementation|strings
+K0335,1065-B,1300.0,2018,0,constructive algorithms|graphs
+K0336,628-A,1000.0,2016,0,math|implementation
+K0337,1941-C,900.0,2024,1,dp|greedy|strings
+K0338,1401-E,2400.0,2020,0,implementation|geometry|sortings|data structures
+K0339,2077-F,3300.0,2025,1,dp|constructive algorithms|bitmasks
+K0340,2188-B,1000.0,2026,1,greedy
+K0341,2153-E,2400.0,2025,1,math|brute force|number theory
+K0342,960-A,1200.0,2018,0,implementation
+K0343,1811-F,2100.0,2023,1,implementation|graphs|dfs and similar
+K0344,1851-D,1300.0,2023,1,math|implementation
+K0345,1172-E,3300.0,2019,0,data structures
+K0346,1989-D,1900.0,2024,1,math|dp|greedy|sortings|brute force|data structures|two pointers
+K0347,2264-B,1000.0,2026,1,math|greedy|data structures
+K0348,2124-C,1300.0,2025,1,math|greedy|constructive algorithms|number theory
+K0349,1526-A,800.0,2021,0,sortings|constructive algorithms
+K0350,1051-B,1000.0,2018,0,math|greedy|number theory
+K0351,1485-D,2200.0,2021,0,math|constructive algorithms|number theory|graphs
+K0352,1344-E,3100.0,2020,0,data structures|trees
+K0353,444-B,2300.0,2014,0,probabilities
+K0354,2053-D,1700.0,2024,1,math|greedy|sortings|data structures|binary search|schedules
+K0355,1367-B,800.0,2020,0,math|greedy
+K0356,2205-G,3000.0,2026,1,math|brute force|data structures|number theory|bitmasks
+K0357,683-J,3000.0,2016,0,*special
+K0358,2055-F,3200.0,2025,1,math|geometry|hashing|brute force|strings
+K0359,2026-C,1500.0,2024,1,implementation|greedy|brute force|constructive algorithms|data structures|binary search
+K0360,2072-B,900.0,2025,1,constructive algorithms|strings|combinatorics
+K0361,1140-G,2700.0,2019,0,shortest paths|data structures|trees|divide and conquer
+K0362,1294-D,1600.0,2020,0,math|implementation|greedy|data structures
+K0363,2238-D,1500.0,2026,1,math|greedy|number theory
+K0364,2127-G2,3500.0,2025,1,math|implementation|constructive algorithms|binary search|graphs|bitmasks|probabilities|interactive
+K0365,1490-G,1900.0,2021,0,math|data structures|binary search
+K0366,1548-C,2500.0,2021,0,math|dp|combinatorics|fft
+K0367,785-B,1100.0,2017,0,greedy|sortings
+K0368,1019-E,3200.0,2018,0,data structures|trees|divide and conquer
+K0369,163-E,2800.0,2012,0,dp|data structures|strings|trees|dfs and similar
+K0370,1630-F,3400.0,2022,0,number theory|graphs|graph matchings|flows
+K0371,1354-A,900.0,2020,0,math
+K0372,1010-D,2000.0,2018,0,implementation|trees|graphs|dfs and similar
+K0373,2217-E,2100.0,2026,1,greedy|sortings|constructive algorithms|data structures|binary search|graphs
+K0374,2217-C,1300.0,2026,1,math|number theory|chinese remainder theorem
+K0375,526-D,2200.0,2015,0,hashing|strings|string suffix structures
+K0376,1283-F,2200.0,2019,0,greedy|constructive algorithms|trees
+K0377,1146-D,2100.0,2019,0,math|number theory|dfs and similar
+K0378,2188-A,800.0,2026,1,constructive algorithms
+K0379,2048-A,800.0,2024,1,math|implementation|greedy|brute force|number theory
+K0380,2071-D2,2500.0,2025,1,math|implementation|dp|brute force|constructive algorithms|data structures|bitmasks
+K0381,600-A,1600.0,2015,0,implementation|strings
+K0382,227-B,1100.0,2012,0,implementation
+K0383,27-D,2200.0,2010,0,dsu|graphs|dfs and similar|2-sat
+K0384,2264-E1,2200.0,2026,1,dp|number theory|combinatorics
+K0385,1920-D,1900.0,2024,1,math|implementation|brute force|binary search|dsu
+K0386,1849-E,2300.0,2023,1,dp|data structures|two pointers|binary search|dsu|divide and conquer
+K0387,1156-C,2000.0,2019,0,greedy|sortings|two pointers|binary search|ternary search
+K0388,991-D,1500.0,2018,0,dp|greedy
+K0389,1477-C,2200.0,2021,0,math|geometry|greedy|sortings|constructive algorithms
+K0390,1767-F,3100.0,2022,0,data structures|trees
+K0391,510-E,2300.0,2015,0,flows
+K0392,2174-E2,3200.0,2025,1,math|binary search|dfs and similar|chinese remainder theorem|interactive
+K0393,2029-F,2500.0,2024,1,greedy|constructive algorithms|graphs
+K0394,23-C,2500.0,2010,0,sortings|constructive algorithms
+K0395,1826-D,1700.0,2023,1,dp|greedy|brute force
+K0396,1610-F,3000.0,2021,0,constructive algorithms|graphs|dfs and similar
+K0397,988-B,1100.0,2018,0,sortings|strings
+K0398,1001-G,1400.0,2018,0,*special
+K0399,1472-A,800.0,2021,0,math|greedy
+K0400,2036-B,800.0,2024,1,greedy|sortings
+K0401,2194-F2,3000.0,2026,1,dp|data structures|trees|bitmasks|dfs and similar|fft
+K0402,682-E,2600.0,2016,0,geometry|two pointers
+K0403,2018-F2,3000.0,2024,1,math|dp|greedy
+K0404,408-A,900.0,2014,0,implementation
+K0405,2239-D,2500.0,2026,1,math|dp|graphs|combinatorics
+K0406,1141-D,1500.0,2019,0,implementation|greedy
+K0407,2194-F1,2300.0,2026,1,dp|trees|bitmasks|dfs and similar
+K0408,1288-A,1100.0,2020,0,math|brute force|binary search|ternary search
+K0409,575-E,2800.0,2015,0,geometry
+K0410,293-D,2700.0,2013,0,math|geometry|two pointers|probabilities
+K0411,768-G,3300.0,2017,0,data structures|binary search
+K0412,2245-B,1100.0,2026,1,greedy
+K0413,1627-F,2700.0,2022,0,implementation|geometry|greedy|shortest paths|graphs
+K0414,1218-C,2600.0,2019,0,dp
+K0415,1606-B,1100.0,2021,0,math|implementation|greedy
+K0416,1190-E,3100.0,2019,0,greedy|binary search
+K0417,2191-A,800.0,2026,1,constructive algorithms
+K0418,1956-D,2000.0,2024,1,math|implementation|dp|greedy|brute force|constructive algorithms|bitmasks|divide and conquer
+K0419,725-A,1000.0,2016,0,implementation
+K0420,1851-B,800.0,2023,1,greedy|sortings|two pointers
+K0421,1861-B,1000.0,2023,1,dp|greedy|constructive algorithms
+K0422,955-A,1100.0,2018,0,math|greedy
+K0423,513-E1,2600.0,2015,0,dp
+K0424,1637-D,1800.0,2022,0,math|dp|greedy
+K0425,425-E,2500.0,2014,0,dp
+K0426,1828-B,900.0,2023,1,math|number theory
+K0427,431-A,800.0,2014,0,implementation
+K0428,1220-F,2700.0,2019,0,data structures|binary search
+K0429,2162-E,1600.0,2025,1,greedy|constructive algorithms|schedules
+K0430,1974-F,1900.0,2024,1,implementation|sortings|brute force|data structures|two pointers|binary search
+K0431,1578-K,2800.0,2021,0,implementation|brute force|graphs
+K0432,31-A,1200.0,2010,0,implementation
+K0433,1572-E,3000.0,2021,0,geometry|dp|binary search
+K0434,1943-E1,2900.0,2024,1,greedy|brute force|binary search
+K0435,2256-B,1000.0,2026,1,math|implementation
+K0436,1862-C,1100.0,2023,1,implementation|sortings|data structures|binary search
+K0437,887-F,2500.0,2017,0,greedy|sortings
+K0438,1795-G,2700.0,2023,1,graphs|bitmasks|dfs and similar
+K0439,2140-F,2900.0,2025,1,number theory
+K0440,1922-F,2500.0,2024,1,dp|graph matchings
+K0441,1419-A,900.0,2020,0,implementation|greedy|games
+K0442,1152-F1,2800.0,2019,0,dp|bitmasks|matrices
+K0443,616-E,2200.0,2016,0,math|implementation|number theory
+K0444,1336-F,3500.0,2020,0,data structures|trees|graphs|divide and conquer
+K0445,1671-B,1000.0,2022,0,math|sortings|brute force
+K0446,609-C,1500.0,2015,0,math|implementation
+K0447,1919-D,2100.0,2024,1,greedy|sortings|constructive algorithms|data structures|dsu|trees
+K0448,2238-E,2100.0,2026,1,dp|greedy
+K0449,484-B,2100.0,2014,0,math|sortings|two pointers|binary search
+K0450,2053-C,1500.0,2024,1,math|dp|bitmasks|divide and conquer
+K0451,1612-C,1300.0,2021,0,math|binary search
+K0452,698-A,1400.0,2016,0,dp
+K0453,2048-D,1600.0,2024,1,greedy|sortings|brute force|data structures|two pointers|binary search
+K0454,1835-C,2600.0,2023,1,math|brute force|constructive algorithms|bitmasks|probabilities
+K0455,1238-A,900.0,2019,0,math|number theory
+K0456,2005-A,900.0,2024,1,math|greedy|constructive algorithms|combinatorics
+K0457,200-D,1800.0,2012,0,implementation|brute force|binary search|expression parsing
+K0458,1311-A,800.0,2020,0,math|implementation|greedy
+K0459,2003-E2,2700.0,2024,1,math|dp|greedy|brute force|data structures|two pointers|divide and conquer
+K0460,1891-E,2500.0,2023,1,math|implementation|greedy|sortings|brute force
+K0461,1779-D,1700.0,2023,1,dp|greedy|sortings|constructive algorithms|data structures|dsu
+K0462,2044-B,800.0,2024,1,implementation|strings
+K0463,1096-G,2400.0,2018,0,dp|divide and conquer|fft
+K0464,1141-F2,1900.0,2019,0,greedy|data structures
+K0465,769-B,1200.0,2017,0,greedy|two pointers|*special
+K0466,2171-B,900.0,2025,1,math
+K0467,1883-A,800.0,2023,1,math
+K0468,2104-A,800.0,2025,1,math
+K0469,1355-F,2600.0,2020,0,constructive algorithms|number theory|interactive
+K0470,2227-A,800.0,2026,1,math|implementation
+K0471,797-F,2600.0,2017,0,dp|greedy|sortings|data structures
+K0472,768-F,2300.0,2017,0,math|brute force|number theory|probabilities|combinatorics
+K0473,1593-C,1000.0,2021,0,greedy|binary search
+K0474,1571-G,2500.0,2021,0,dp|data structures|*special
+K0475,1510-J,2700.0,2021,0,math|constructive algorithms
+K0476,1988-C,1300.0,2024,1,greedy|constructive algorithms|bitmasks
+K0477,366-D,2000.0,2013,0,shortest paths|data structures|two pointers|binary search|dsu|dfs and similar
+K0478,2118-C,1300.0,2025,1,math|greedy|data structures|bitmasks
+K0479,622-D,1900.0,2016,0,constructive algorithms
+K0480,1183-H,1900.0,2019,0,dp|strings
+K0481,374-E,2600.0,2013,0,implementation|geometry|data structures|binary search|dsu
+K0482,108-A,1000.0,2011,0,implementation|strings
+K0483,2145-D,1800.0,2025,1,dp|constructive algorithms|dfs and similar
+K0484,1943-D2,2800.0,2024,1,dp|combinatorics
+K0485,1904-A,900.0,2023,1,implementation|brute force
+K0486,1895-A,800.0,2023,1,math
+K0487,1970-C3,1900.0,2024,1,dp|games|trees|dfs and similar
+K0488,2185-E,1500.0,2026,1,implementation|greedy|two pointers|binary search
+K0489,1205-A,1200.0,2019,0,math|greedy|constructive algorithms
+K0490,749-B,1200.0,2016,0,geometry|brute force|constructive algorithms
+K0491,1464-F,3500.0,2020,0,data structures|trees
+K0492,1016-F,2600.0,2018,0,dp|trees|dfs and similar
+K0493,1773-G,2800.0,2022,0,math|dp|bitmasks|probabilities|combinatorics|fft
+K0494,175-F,3000.0,2012,0,implementation|shortest paths|data structures|graphs
+K0495,2050-B,1100.0,2024,1,math|greedy|brute force
+K0496,2132-F,2100.0,2025,1,shortest paths|graphs|dfs and similar
+K0497,1915-B,800.0,2023,1,implementation|brute force|bitmasks
+K0498,412-A,900.0,2014,0,implementation|greedy
+K0499,2226-C,1500.0,2026,1,math|greedy|data structures|two pointers|binary search
+K0500,1455-C,1100.0,2020,0,math|games|constructive algorithms

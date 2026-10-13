@@ -1,0 +1,17 @@
+{
+  "model": "svr",
+  "tuned_on_condition": "A",
+  "params": {
+    "C": 300.0,
+    "epsilon": 20.0,
+    "gamma": 0.001,
+    "n_components": 800
+  },
+  "extra": {
+    "best_valid_mae": 245.48245425016205,
+    "n_candidates": 40,
+    "tune_seconds": 89.4,
+    "budget_family": "linear_tree",
+    "budget": 40
+  }
+}

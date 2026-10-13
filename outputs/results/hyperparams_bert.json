@@ -1,0 +1,15 @@
+{
+  "model": "bert",
+  "tuned_on_condition": "A",
+  "params": {
+    "lr": 3e-05,
+    "epochs": 2
+  },
+  "extra": {
+    "best_valid_mae": 446.49964766142466,
+    "n_candidates": 9,
+    "tune_seconds": 2197.2,
+    "budget_family": "bert",
+    "budget": 9
+  }
+}

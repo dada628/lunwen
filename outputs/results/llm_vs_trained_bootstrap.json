@@ -1,0 +1,40 @@
+{
+  "n_items": 200,
+  "n_boot": 10000,
+  "seed": 42,
+  "target": "Δ = MAE(LLM) − MAE(LightGBM)，正=大模型更差",
+  "trained_mae_seedmean": 465.077,
+  "trained_mae_ensemble": 464.216,
+  "models": {
+    "qwen3.8-flash": {
+      "mae": 439.5,
+      "delta_vs_lightgbm": -25.577,
+      "ci95": [
+        -76.478,
+        25.093
+      ],
+      "p_bootstrap": 0.3202,
+      "crosses_zero": true
+    },
+    "DeepSeek-V4.1-Flash": {
+      "mae": 451.5,
+      "delta_vs_lightgbm": -13.577,
+      "ci95": [
+        -72.105,
+        46.031
+      ],
+      "p_bootstrap": 0.6472,
+      "crosses_zero": true
+    },
+    "mimo-v2.6-flash": {
+      "mae": 560.5,
+      "delta_vs_lightgbm": 95.423,
+      "ci95": [
+        18.618,
+        169.69
+      ],
+      "p_bootstrap": 0.0138,
+      "crosses_zero": false
+    }
+  }
+}

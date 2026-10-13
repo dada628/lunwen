@@ -1,0 +1,12 @@
+{
+  "model": "tag_mean",
+  "tuned_on_condition": "A",
+  "params": {},
+  "extra": {
+    "best_valid_mae": 555.2025732607102,
+    "n_candidates": 1,
+    "tune_seconds": 0.0,
+    "budget_family": "linear_tree",
+    "budget": 40
+  }
+}

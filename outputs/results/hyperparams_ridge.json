@@ -1,0 +1,14 @@
+{
+  "model": "ridge",
+  "tuned_on_condition": "A",
+  "params": {
+    "alpha": 3.0
+  },
+  "extra": {
+    "best_valid_mae": 204.16018806413075,
+    "n_candidates": 7,
+    "tune_seconds": 10.5,
+    "budget_family": "linear_tree",
+    "budget": 40
+  }
+}
